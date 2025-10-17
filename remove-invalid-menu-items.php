@@ -4,10 +4,10 @@
 **/
 /*
 Plugin Name: Remove invalid menu items
-Plugin URI: https://shojibkhan.com/remove-invalid-menu-items
+Plugin URI: https://shojibkhan.com/blog/remove-invalid-menu-items
 Author: Shojib Khan
 Author URI: https://shojibkhan.com
-Version: 1.3.0
+Version: 1.3.1
 Description: Remove all the invalid menu items in one click.
 License: GPLv2 or later
 */
@@ -56,9 +56,3 @@ class rimip
 if( class_exists('rimip')){
 	$rimip = new rimip();
 }
-
-//Activate 
-register_activation_hook(__FILE__, array($rimip, 'active'));
-
-//Deactivate
-register_deactivation_hook(__FILE__, array($rimip, 'deactivate'));

@@ -20,5 +20,9 @@ Activate the plugin through the ‘Plugins’ menu in WordPress
 
 
 === Changelog ===
+= 1.3.1 =
+* Fixed fatal error issue
+* Improved plugin stability
+
 = 1.3.0 =
 * Bump support version to WordPress 6.0.1

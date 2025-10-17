@@ -20,7 +20,7 @@ Activate the plugin through the ‘Plugins’ menu in WordPress
 
 All you have to do is install and activate the plugin then go to the navigation menu page. In the menu edit page, you will find a button called ‘Delete invalid menu items’ beside the Save menu button. Just click on the button and all the invalid menu items will be removed.
 
-Please refer to the [Documentation](https://shojibkhan.com/remove-invalid-menu-items)\_
+Please refer to the [Documentation](https://shojibkhan.com/blog/remove-invalid-menu-items)\_
 
 <!-- CONTACT -->
 
