@@ -1,0 +1,9 @@
+# Files to exclude from WordPress.org distribution
+.distignore
+.gitignore
+.github/
+.git/
+.DS_Store
+Thumbs.db
+README.md
+DEPLOYMENT.md
